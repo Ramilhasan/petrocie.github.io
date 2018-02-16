@@ -6,7 +6,7 @@
   </head>
   <body>
     <p>Contenu de la page.</p>
-    <img src="/img/11.png" alt="Smiley face" height="600" width="800">
+    <img src="img/11.png" alt="Smiley face" height="600" width="800">
     <a href="contenu/autredossier/page2.html">
   </body>
 </html>
